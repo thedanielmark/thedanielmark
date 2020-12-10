@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a software engineer with over 8 years of experience.
+
 <!--
 **thedanielmark/thedanielmark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
