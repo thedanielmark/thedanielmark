@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### About
-I&apos;m a software engineer with over 8 years of experience. I&apos;m currently pursuing my Bachelor of Technology in IT Engineering at Loyola-ICAM College of Engineering and Technology.
+I&apos;m a software engineer with over 4 years of professional experience. I&apos;m currently pursuing my Bachelor of Technology in IT Engineering at Loyola-ICAM College of Engineering and Technology.
 
 ### Core Competencies
 #### Languages:
