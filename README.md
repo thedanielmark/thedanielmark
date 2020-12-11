@@ -18,7 +18,7 @@ I also own an internet company called [MixSpace Internet Services](https://mixsp
 
 #### 🕶️ Other Cool Stuff:
 >JAMstack, Object Oriented Programming, Wireframing, Test-Driven Development, Responsive Design, Authentication, Agile Development/Scrum, the command line.
-
+<br><br>
 Take a look at my work or get in touch with me by logging onto [www.thedanielmark.com](https://www.thedanielmark.com "www.thedanielmark.com")
 
 <!--
