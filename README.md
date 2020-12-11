@@ -15,7 +15,7 @@ MariaDB, MySQL, PostgreSQL, MongoDB, SQLite, Firestore, Oracle Database.
 Postman, RESTful APIs, AJAX, Axios, SWR, JSX, Git, GitHub, Jira, npm, Cloudflare, Netlify, Vercel, GitHub Actions, Ansible, Ubuntu/Debian & CentOS/Fedora.
 
 #### 💬 Methodologies:
-JAMStack, Object Oriented Programming, Wireframing, Test-Driven Development, Responsive Design, Authentication, Agile Development/Scrum, the command line.
+JAMstack, Object Oriented Programming, Wireframing, Test-Driven Development, Responsive Design, Authentication, Agile Development/Scrum, the command line.
 
 Take a look at my work or get in touch with me by logging onto [www.thedanielmark.com](http://www.thedanielmark.com "www.thedanielmark.com")
 
