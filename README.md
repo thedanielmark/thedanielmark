@@ -1,20 +1,20 @@
 ## Hi there 👋
 I&apos;m a software engineer with over 4 years of professional experience. I&apos;m currently pursuing my Bachelor of Technology in IT Engineering at Loyola-ICAM College of Engineering and Technology.
 
-### 🖥️ Core Competencies
-#### Languages:
+### Core Competencies
+#### 🖥️ Languages:
 JavaScript (ES5, ES6), HTML5, CSS3/SASS, PHP & Python
 
-#### Framework/Library/CDN:
+#### ⚡ Framework/Library/CDN:
 React.js, Next.js, Gatsby, jQuery, Bootstrap, Electron, Ionic, Semantic UI, styled components
 
-#### Databases:
+#### 💾 Databases:
 MariaDB, MySQL, PostgreSQL, MongoDB, SQLite, Firestore, Oracle Database
 
-#### Tools and other cool stuff:
+#### 😄 Tools and other cool stuff:
 Postman, RESTful APIs, AJAX, Axios, SWR, Git, GitHub, Jira, npm, Cloudflare, Netlify, GitHub Actions, Ansible, Ubuntu/Debian & CentOS/Fedora.
 
-#### Methodologies:
+#### 💬 Methodologies:
 JAMStack, Object Oriented Programming, Wireframing, Test-Driven Development, Responsive Design, Authentication, Agile Development/Scrum, command line
 
 Take a look at my work or get in touch with me by logging onto [www.thedanielmark.com](http://www.thedanielmark.com "www.thedanielmark.com")
