@@ -5,19 +5,19 @@ I also own an internet company called [MixSpace Internet Services](https://mixsp
 
 ### Core Competencies
 #### 🖥️ Languages:
-> JavaScript (ES5 & ES6), HTML5, CSS3/SASS, PHP & Python.
+>JavaScript (ES5 & ES6), HTML5, CSS3/SASS, PHP & Python.
 
 #### ⚡ Frameworks/Libraries:
 > React.js, Next.js, Gatsby, jQuery, Bootstrap, Tailwind CSS, Electron, Ionic, Semantic UI, styled components.
 
 #### 💾 Databases:
-> MariaDB, MySQL, PostgreSQL, MongoDB, SQLite, Firestore, Oracle Database.
+>MariaDB, MySQL, PostgreSQL, MongoDB, SQLite, Firestore, Oracle Database.
 
 #### 🛠️ Tools:
-> Postman, RESTful APIs, AJAX, Axios, SWR, JSX, Git, GitHub, Jira, npm, Cloudflare, Netlify, Vercel, GitHub Actions, Ansible, Ubuntu/Debian & CentOS/Fedora.
+>Postman, RESTful APIs, AJAX, Axios, SWR, JSX, Git, GitHub, Jira, npm, Cloudflare, Netlify, Vercel, GitHub Actions, Ansible, Ubuntu/Debian & CentOS/Fedora.
 
 #### 🕶️ Other Cool Stuff:
-> JAMstack, Object Oriented Programming, Wireframing, Test-Driven Development, Responsive Design, Authentication, Agile Development/Scrum, the command line.
+>JAMstack, Object Oriented Programming, Wireframing, Test-Driven Development, Responsive Design, Authentication, Agile Development/Scrum, the command line.
 
 Take a look at my work or get in touch with me by logging onto [www.thedanielmark.com](https://www.thedanielmark.com "www.thedanielmark.com")
 
