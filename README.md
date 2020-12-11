@@ -7,7 +7,7 @@ I also own an internet company called [MixSpace Internet Services](https://mixsp
 #### 🖥️ Languages:
 JavaScript (ES5 & ES6), HTML5, CSS3/SASS, PHP & Python.
 
-#### ⚡ Framework/Library:
+#### ⚡ Frameworks/Libraries:
 React.js, Next.js, Gatsby, jQuery, Bootstrap, Tailwind CSS, Electron, Ionic, Semantic UI, styled components.
 
 #### 💾 Databases:
