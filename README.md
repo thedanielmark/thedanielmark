@@ -1,5 +1,5 @@
 ## Hi there 👋
-I&apos;m a software engineer with over 4 years of professional experience. I&apos;m currently pursuing my Bachelor of Technology in IT Engineering at Loyola-ICAM College of Engineering and Technology.
+I&apos;m a software engineer with over 4 years of professional experience and I focus on Enterprise Systems, Cloud Computing and applications at scale. I&apos;m currently pursuing my Bachelor of Technology in IT Engineering at Loyola-ICAM College of Engineering and Technology.
 
 I also own an internet company called [MixSpace Internet Services](https://mixspace.xyz) and run a technical club named [Pattarai](http://pattarai.in "www.pattarai.in").
 
