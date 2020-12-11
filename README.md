@@ -1,7 +1,7 @@
 ## Hi there 👋
 I&apos;m a software engineer with over 4 years of professional experience. I&apos;m currently pursuing my Bachelor of Technology in IT Engineering at Loyola-ICAM College of Engineering and Technology.
 
-![](https://thedanielmark.com/the%20mixspace%20logo%20xs)
+![](https://thedanielmark.com/the%20mixspace%20logo%20xs.png)
 
 ### Core Competencies
 #### 🖥️ Languages:
