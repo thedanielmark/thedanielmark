@@ -6,7 +6,7 @@ I&apos;m a software engineer with over 4 years of professional experience. I&apo
 JavaScript (ES5 & ES6), HTML5, CSS3/SASS, PHP & Python.
 
 #### ⚡ Framework/Library:
-React.js, Next.js, Gatsby, jQuery, Bootstrap, Electron, Ionic, Semantic UI, styled components.
+React.js, Next.js, Gatsby, jQuery, Bootstrap, Tailwind CSS, Electron, Ionic, Semantic UI, styled components.
 
 #### 💾 Databases:
 MariaDB, MySQL, PostgreSQL, MongoDB, SQLite, Firestore, Oracle Database.
