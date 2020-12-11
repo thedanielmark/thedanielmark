@@ -12,7 +12,7 @@ React.js, Next.js, Gatsby, jQuery, Bootstrap, Electron, Ionic, Semantic UI, styl
 MariaDB, MySQL, PostgreSQL, MongoDB, SQLite, Firestore, Oracle Database.
 
 #### 😄 Tools and other cool stuff:
-Postman, RESTful APIs, AJAX, Axios, SWR, Git, GitHub, Jira, npm, Cloudflare, Netlify, GitHub Actions, Ansible, Ubuntu/Debian & CentOS/Fedora.
+Postman, RESTful APIs, AJAX, Axios, SWR, JSX, Git, GitHub, Jira, npm, Cloudflare, Netlify, GitHub Actions, Ansible, Ubuntu/Debian & CentOS/Fedora.
 
 #### 💬 Methodologies:
 JAMStack, Object Oriented Programming, Wireframing, Test-Driven Development, Responsive Design, Authentication, Agile Development/Scrum, the command line.
