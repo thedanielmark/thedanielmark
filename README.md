@@ -5,7 +5,7 @@ I&apos;m a software engineer with over 4 years of professional experience. I&apo
 #### 🖥️ Languages:
 JavaScript (ES5, ES6), HTML5, CSS3/SASS, PHP & Python.
 
-#### ⚡ Framework/Library/CDN:
+#### ⚡ Framework/Library:
 React.js, Next.js, Gatsby, jQuery, Bootstrap, Electron, Ionic, Semantic UI, styled components.
 
 #### 💾 Databases:
