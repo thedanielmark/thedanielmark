@@ -16,7 +16,7 @@ MariaDB, MySQL, PostgreSQL, MongoDB, SQLite, Firestore, Oracle Database.
 #### 🛠️ Tools:
 Postman, RESTful APIs, AJAX, Axios, SWR, JSX, Git, GitHub, Jira, npm, Cloudflare, Netlify, Vercel, GitHub Actions, Ansible, Ubuntu/Debian & CentOS/Fedora.
 
-#### 💬 Other Cool Stuff:
+#### 🕶️ Other Cool Stuff:
 JAMstack, Object Oriented Programming, Wireframing, Test-Driven Development, Responsive Design, Authentication, Agile Development/Scrum, the command line.
 
 Take a look at my work or get in touch with me by logging onto [www.thedanielmark.com](https://www.thedanielmark.com "www.thedanielmark.com")
