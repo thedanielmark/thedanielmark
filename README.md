@@ -13,7 +13,7 @@ React.js, Next.js, Gatsby, jQuery, Bootstrap, Tailwind CSS, Electron, Ionic, Sem
 #### 💾 Databases:
 MariaDB, MySQL, PostgreSQL, MongoDB, SQLite, Firestore, Oracle Database.
 
-#### 😄 Tools:
+#### 🛠️ Tools:
 Postman, RESTful APIs, AJAX, Axios, SWR, JSX, Git, GitHub, Jira, npm, Cloudflare, Netlify, Vercel, GitHub Actions, Ansible, Ubuntu/Debian & CentOS/Fedora.
 
 #### 💬 Other Cool Stuff:
