@@ -1,7 +1,7 @@
 ## Hi there 👋
 I&apos;m a software engineer with over 4 years of professional experience. I&apos;m currently pursuing my Bachelor of Technology in IT Engineering at Loyola-ICAM College of Engineering and Technology.
 
-![](https://thedanielmark.com/the%20mixspace%20logo%20xs.png)
+I also own an internet company called [MixSpace Internet Services](https://mixspace.xyz) and run a technical club named [Pattarai](http://pattarai.in "www.pattarai.in").
 
 ### Core Competencies
 #### 🖥️ Languages:
@@ -19,7 +19,7 @@ Postman, RESTful APIs, AJAX, Axios, SWR, JSX, Git, GitHub, Jira, npm, Cloudflare
 #### 💬 Methodologies:
 JAMstack, Object Oriented Programming, Wireframing, Test-Driven Development, Responsive Design, Authentication, Agile Development/Scrum, the command line.
 
-Take a look at my work or get in touch with me by logging onto [www.thedanielmark.com](http://www.thedanielmark.com "www.thedanielmark.com")
+Take a look at my work or get in touch with me by logging onto [www.thedanielmark.com](https://www.thedanielmark.com "www.thedanielmark.com")
 
 <!--
 **thedanielmark/thedanielmark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
