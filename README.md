@@ -1,7 +1,7 @@
 ## Hi there! 👋
 I&apos;m a software engineer with over 4 years of professional experience plus another 5 years of tinkering with code and trying to build something cool (ergo projects that I hope no one will ever see again xD). I focus on Enterprise Systems, Cloud Computing and Highly Scalable Web Applications. I&apos;m currently pursuing my Bachelor of Technology in IT Engineering at Loyola-ICAM College of Engineering & Technology.
 
-I also own an internet company called [MixSpace Internet Services](https://mixspace.xyz) and run a technical club named [Pattarai](http://pattarai.in "www.pattarai.in").
+Oh and I also own an internet company called [MixSpace Internet Services](https://mixspace.xyz) which I founded back in December 2019 and run a technical club named [Pattarai](http://pattarai.in "www.pattarai.in") in college.
 
 ### Core Competencies
 #### 🖥️ Languages:
