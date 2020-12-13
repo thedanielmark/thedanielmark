@@ -21,6 +21,8 @@ I also own an internet company called [MixSpace Internet Services](https://mixsp
 
 Take a look at my work or get in touch with me by logging onto [www.thedanielmark.com](https://www.thedanielmark.com "www.thedanielmark.com")
 
+###### The code in my public repositories are only a sample of the kind of projects I have worked on. Enterprise and personal projects with sensitive code/data are private so if you'd like to talk about them, feel free to get in touch with me.
+
 <!--
 **thedanielmark/thedanielmark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
