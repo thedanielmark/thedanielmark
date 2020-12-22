@@ -23,6 +23,8 @@ Take a look at my work or get in touch with me by logging onto [www.thedanielmar
 
 ###### The code in my public repositories are only a sample of the kind of projects I have worked on. Enterprise and personal projects with sensitive code/data are private so if you'd like to talk about them, feel free to get in touch with me.
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=thedanielmark&show_icons=true&theme=dark&count_private=true&custom_title=thedanielmark" />
+
 <!--
 **thedanielmark/thedanielmark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
