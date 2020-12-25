@@ -1,4 +1,7 @@
 ## Hi there! 👋
+
+<img src="https://github.com/thedanielmark/danielmark-grey/blob/master/Twitter%20MixSpace%20Internet%20Services.png" />
+
 I&apos;m a software engineer with over 4 years of professional experience plus another 5 years of tinkering with code and trying to build something cool (ergo projects that I hope no one will ever see again xD). I focus on Enterprise Systems, Cloud Computing and Highly Scalable Web Applications. I&apos;m currently pursuing my Bachelor of Technology in IT Engineering at Loyola-ICAM College of Engineering & Technology.
 
 Oh and I also own an internet company called [MixSpace Internet Services](https://mixspace.xyz) which I founded back in December 2019 and run a technical club named [Pattarai](http://pattarai.in "www.pattarai.in") in college.
@@ -22,8 +25,6 @@ Oh and I also own an internet company called [MixSpace Internet Services](https:
 Take a look at my work or get in touch with me by logging onto [www.thedanielmark.com](https://www.thedanielmark.com "www.thedanielmark.com")
 
 ###### The code in my public repositories are only a sample of the kind of projects I have worked on. Enterprise and personal projects with sensitive code/data are private so if you'd like to talk about them, feel free to get in touch with me.
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=thedanielmark&show_icons=true&theme=dark&count_private=true&custom_title=thedanielmark" />
 
 <!--
 **thedanielmark/thedanielmark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
