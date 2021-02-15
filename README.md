@@ -9,7 +9,7 @@ Oh and I also own an internet company called [MixSpace Internet Services](https:
 >JavaScript (ES5 & ES6), HTML5, CSS3/SASS, PHP & Python.
 
 #### ⚡ Frameworks/Libraries:
-> React.js, Next.js, Gatsby, jQuery, Bootstrap, Tailwind CSS, Electron, Ionic, Semantic UI, styled components.
+> React.js, Next.js, Gatsby, jQuery, Bootstrap, Tailwind CSS, Electron, Ionic, Cordova, Semantic UI, styled components.
 
 #### 💾 Databases:
 >MariaDB, MySQL, PostgreSQL, MongoDB, SQLite, Firestore, Oracle Database.
