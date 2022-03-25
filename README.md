@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I&apos;m a software engineer with over 4 years of professional experience plus another 5 years of tinkering with code and trying to build something cool (ergo projects that I hope no one will ever see again xD). I focus on Enterprise Systems, Cloud Computing and Highly Scalable Web Applications. I currently work at [@Stratforge](https://github.com/stratforge) - a deep tech start-up based out of Chennai, India.
+<!-- I&apos;m a software engineer with over 4 years of professional experience plus another 5 years of tinkering with code and trying to build something cool (ergo projects that I hope no one will ever see again xD). I focus on Enterprise Systems, Cloud Computing and Highly Scalable Web Applications. I currently work at [@Stratforge](https://github.com/stratforge) - a deep tech start-up based out of Chennai, India. -->
 
 <!-- Oh and I also own an internet company called [MixSpace Internet Services](https://mixspace.io) which I founded back in December 2019 and help run a technical club named [Pattarai](http://pattarai.in "www.pattarai.in") in college. -->
 
