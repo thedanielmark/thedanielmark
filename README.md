@@ -1,6 +1,8 @@
 ## Hi there! 👋
 
-I&apos;m a software engineer with over 4 years of professional experience plus another 5 years of tinkering with code and trying to build something cool (ergo projects that I hope no one will ever see again xD). I focus on Enterprise Systems, Cloud Computing and Highly Scalable Web Applications. Some of my previous stints include [MixSpace Cloud](https://mixspace.xyz), [Pattarai](https://pattarai.in) and [Stratforge](https://stratforge.com). I currently run NFTconomy - a deep-tech data analytics start-up based out of Chennai, India.
+As an IT expert with a proven track record of success, I have a talent for solving complex problems and delivering results that exceed expectations. I have overseen the development lifecycle of several apps, from market research and ideation to technical architecting, development, marketing strategy and release, ensuring the delivery of high-quality products that meet customer needs. By analyzing data using statistical techniques and developing insightful reports, I have helped businesses make data-driven decisions and achieve their commercial goals.
+
+<!-- I&apos;m a software engineer with over 4 years of professional experience plus another 5 years of tinkering with code and trying to build something cool (ergo projects that I hope no one will ever see again xD). I focus on Enterprise Systems, Cloud Computing and Highly Scalable Web Applications. Some of my previous stints include [MixSpace Cloud](https://mixspace.xyz), [Pattarai](https://pattarai.in) and [Stratforge](https://stratforge.com). I currently run NFTconomy - a deep-tech data analytics start-up based out of Chennai, India. -->
 
 <!-- Oh and I also own an internet company called [MixSpace Internet Services](https://mixspace.io) which I founded back in December 2019 and help run a technical club named [Pattarai](http://pattarai.in "www.pattarai.in") in college. -->
 
