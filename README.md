@@ -1,4 +1,4 @@
-## Hi there! 👋
+## Hello there! 👋
 
 As a passionate technologist, dedicated business leader, and avid enthusiast of animated platypuses, I firmly believe that true innovation begins with an insatiable curiosity, an unwavering commitment to lifelong learning, and an unrelenting focus on what lies ahead. It is with great pride that I lead a company that has been at the forefront of transformative change in the global landscape. At [BlitzCraft](https://blitzcrafthq.com), we are spearheading the future of digital transformation by harnessing cutting-edge technology, leveraging our industry expertise, and fostering trust among our clients.
 
@@ -10,7 +10,7 @@ As a passionate technologist, dedicated business leader, and avid enthusiast of 
 
 <!-- Oh and I also own an internet company called [MixSpace Internet Services](https://mixspace.io) which I founded back in December 2019 and help run a technical club named [Pattarai](http://pattarai.in "www.pattarai.in") in college. -->
 
-### Core Competencies
+### Core Competencies As An Engineer
 #### 🖥️ Languages:
 >JavaScript (ES5 & ES6), HTML5, CSS3/SASS, PHP & Python.
 
