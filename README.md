@@ -10,7 +10,7 @@ I've led teams, shipped production systems, and architected reusable patterns fo
 
 ---
 
-### 📚 Outside the Code
+### Outside the Code
 
 When I’m not deep in a codebase, I’m usually nose-deep in a book. I read a lot of classics and philosophy—Dostoevsky, Nietzsche, Tolstoy, *The Art of War*—anything that wrestles with meaning, struggle, or strategy.
 
