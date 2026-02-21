@@ -26,4 +26,4 @@ I approach engineering the same way I approach everything else: with curiosity, 
 
 ---
 
-📬 For inquiries, collaborations, or just a good conversation, you can reach me at [thedanielmark.com](https://thedanielmark.com) or send an email to [hello@thedanielmark.com](mailto:hello@thedanielmark.com).
+For inquiries, collaborations, or just a good conversation, you can reach me at [thedanielmark.com](https://thedanielmark.com) or send an email to [hello@thedanielmark.com](mailto:hello@thedanielmark.com).
