@@ -25,7 +25,7 @@ Some of the areas I care most about are:
 
 
 
-You can find more of my work and technical writing at [thedanielmark.com](https://thedanielmark.com).
+You can find more of my work and technical writing at [thedanielmark.com](https://www.thedanielmark.com).
 
 ---
 
@@ -39,4 +39,4 @@ That same curiosity shapes how I approach engineering: understand the fundamenta
 
 ---
 
-For inquiries, collaborations, or conversation, visit [thedanielmark.com](https://thedanielmark.com) or email [hello@thedanielmark.com](mailto:hello@thedanielmark.com).
+For inquiries, collaborations, or conversation, visit [thedanielmark.com](https://www.thedanielmark.com) or email [hello@thedanielmark.com](mailto:hello@thedanielmark.com).
