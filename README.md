@@ -1,29 +1,40 @@
 ## 🛡️ About Me
 
-I'm a front-end engineer with 7+ years of professional experience, focused on building clean, scalable, and performant interfaces. I predominantly work in **Web3**, helping teams build responsive, secure, and user-friendly dApps with production-grade front-end architecture.
+I’m a senior front-end engineer focused on building production-grade web products, reusable application architecture, and developer-facing systems.
 
-Most of my work revolves around technologies like **Next.js**, **TypeScript**, **React**, **Tailwind CSS**, **React Query**, and modern state management libraries like **Zustand**, **Jotai**, and **React Hook Form**. I’ve also built and maintained custom design systems using **Shadcn**, **Radix UI**, and **Headless UI**.
+I work primarily with **React**, **Next.js**, and **TypeScript**, with particular attention to performance, accessibility, design systems, developer experience, and long-term maintainability. Much of my recent work has been in Web3, where I’ve helped teams turn technically complex protocols and infrastructure into clear, reliable products for end users.
 
-While front-end is my specialty, I’m comfortable going full-stack when needed—working with **Node.js**, **PostgreSQL**, and **GitHub Actions** to build and automate end-to-end systems.
+My work often extends beyond individual interfaces. I’ve built shared front-end platforms, established reusable architectural patterns, led product implementation across teams, and created tooling that helps engineers ship consistently across multiple applications.
 
-I've led teams, shipped production systems, and architected reusable patterns for faster product iteration. I care deeply about developer experience, performance, and writing code that scales without getting in the way.
+Although front-end engineering is my specialty, I’m comfortable working across the stack with **Node.js**, **PostgreSQL**, CI/CD pipelines, observability, and the surrounding infrastructure required to take a product from implementation to production.
+
+Some of the areas I care most about are:
+
+* Front-end platform architecture
+* Design systems and reusable component APIs
+* Developer tools and technical products
+* Performance, accessibility, and reliability
+* Building systems that remain understandable as teams and products grow
+
+### Selected Work
+
+* **Atlas** — A reusable front-end platform for building consistent production applications
+* **GitMyABI** — Developer tooling for generating and distributing contract SDKs
+* **Aviatopia** — An aviation knowledge platform built around structured guides, topics, and reference content
+* **ax402** — Product interfaces and application architecture for payment infrastructure
+
+You can find more of my work and technical writing at [thedanielmark.com](https://thedanielmark.com).
 
 ---
 
 ### Outside the Code
 
-When I’m not deep in a codebase, I’m usually nose-deep in a book. I read a lot of classics and philosophy—Dostoevsky, Nietzsche, Tolstoy, *The Art of War*—anything that wrestles with meaning, struggle, or strategy.
+Outside engineering, I read extensively across classic literature, philosophy, history, business, and strategy. Dostoevsky, Tolstoy, Nietzsche, and military history have all influenced how I think about people, incentives, leadership, and systems.
 
-I’m borderline obsessive about sound—high-fidelity audio, sound design, the physics behind it. If it buzzes, hums, or resonates right, I’m interested.
+I’m also deeply interested in high-fidelity audio, sound design, and the physics of sound. I enjoy understanding not only how things work, but why some systems feel coherent while others do not.
 
-I’m also into business and finance—not the startup buzzword stuff, but understanding how value flows, how markets behave, and what makes systems (and people) tick over time.
-
-War history fascinates me too. Strategy, leadership, the psychology of conflict—it all feeds into how I think about systems, product, and even code. Everything’s a campaign, just with different weapons.
+That same curiosity shapes how I approach engineering: understand the fundamentals, remove unnecessary complexity, and build things that can endure.
 
 ---
 
-I approach engineering the same way I approach everything else: with curiosity, discipline, and a bias for building things that last.
-
----
-
-For inquiries, collaborations, or just a good conversation, you can reach me at [thedanielmark.com](https://thedanielmark.com) or send an email to [hello@thedanielmark.com](mailto:hello@thedanielmark.com).
+For inquiries, collaborations, or conversation, visit [thedanielmark.com](https://thedanielmark.com) or email [hello@thedanielmark.com](mailto:hello@thedanielmark.com).
