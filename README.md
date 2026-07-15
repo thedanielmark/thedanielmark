@@ -18,12 +18,10 @@ Some of the areas I care most about are:
 
 ### Selected Work
 
-* **[Atlas](https://atlas.thedanielmark.com)** — A reusable front-end platform for building consistent production applications
-* **[Aviatopia](https://aviatopia.com)** — An aviation knowledge platform built around structured guides, topics, and reference content
-* **[GitMyABI](https://gitmyabi.com)** — Developer tooling for generating and distributing contract SDKs
-* **[ax402](https://ax402.io)** — Product interfaces and application architecture for payment infrastructure
-
-
+* **[Atlas](https://atlas.thedanielmark.com)**: A reusable front-end platform for building consistent production applications
+* **[Aviatopia](https://aviatopia.com)**: An aviation knowledge platform built around structured guides, topics, and reference content
+* **[GitMyABI](https://gitmyabi.com)**: Developer tooling for generating and distributing contract SDKs
+* **[ax402](https://ax402.io)**: Product interfaces and application architecture for payment infrastructure
 
 You can find more of my work and technical writing at [thedanielmark.com](https://www.thedanielmark.com).
 
@@ -39,4 +37,4 @@ That same curiosity shapes how I approach engineering: understand the fundamenta
 
 ---
 
-For inquiries, collaborations, or conversation, visit [thedanielmark.com](https://www.thedanielmark.com) or email [hello@thedanielmark.com](mailto:hello@thedanielmark.com).
+For inquiries, collaborations, or conversation, email [hello@thedanielmark.com](mailto:hello@thedanielmark.com).
