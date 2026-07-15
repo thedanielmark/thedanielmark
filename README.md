@@ -18,10 +18,12 @@ Some of the areas I care most about are:
 
 ### Selected Work
 
-* **Atlas** — A reusable front-end platform for building consistent production applications
-* **GitMyABI** — Developer tooling for generating and distributing contract SDKs
-* **Aviatopia** — An aviation knowledge platform built around structured guides, topics, and reference content
-* **ax402** — Product interfaces and application architecture for payment infrastructure
+* **[Atlas](https://atlas.thedanielmark.com)** — A reusable front-end platform for building consistent production applications
+* **[Aviatopia](https://aviatopia.com)** — An aviation knowledge platform built around structured guides, topics, and reference content
+* **[GitMyABI](https://gitmyabi.com)** — Developer tooling for generating and distributing contract SDKs
+* **[ax402](https://ax402.io)** — Product interfaces and application architecture for payment infrastructure
+
+
 
 You can find more of my work and technical writing at [thedanielmark.com](https://thedanielmark.com).
 
